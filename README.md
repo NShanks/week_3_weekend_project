@@ -1,3 +1,5 @@
+Weekend project for coding temple to practice OOP principles and get more familiar with git. Experimented with custom print functions to make text based programs more interactive and user-friendly. Implemented different classes and methods to cover all edge cases in the parking garage scenario.
+
 The parking gargage class has the following methods:
 - takeTicket
    - This should decrease the amount of tickets available by 1
